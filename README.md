@@ -45,7 +45,7 @@ the adapter (or the app) means the rest of your codebase only ever sees `AdsCore
 
 ## Requirements
 
-- iOS 16.0+ · Swift 5.9+
+- iOS 17.0+ · Swift 5.9+
 
 ## License
 
